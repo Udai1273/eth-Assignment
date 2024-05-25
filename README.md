@@ -4,7 +4,10 @@ Creating a Token
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This program provides the user with the ability to create a token consists of name ,abbreviation and total number and some added functionality :-
+1.mint() :- this function allows you to add amount to specific address.
+2.burn() :- this is opposite of mint() ,this function allows you to remove any amount from a specified address if the address contain enough amount to do so.
+This program aims to provide you with a basic token creating code with can be changed to creating something more creative and functional.
 
 ## Getting Started
 
